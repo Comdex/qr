@@ -17,3 +17,5 @@ qr -c "content"
 qr -f "file path"
 ```
 
+Thanks to the project [github.com/skip2/go-qrcode](github.com/skip2/go-qrcode)
+
